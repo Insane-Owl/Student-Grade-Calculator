@@ -1,0 +1,14 @@
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\bin\Debug\net10.0\Student Grade Calculator.exe
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\bin\Debug\net10.0\Student Grade Calculator.deps.json
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\bin\Debug\net10.0\Student Grade Calculator.runtimeconfig.json
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\bin\Debug\net10.0\Student Grade Calculator.dll
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\bin\Debug\net10.0\Student Grade Calculator.pdb
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\obj\Debug\net10.0\Student Grade Calculator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\obj\Debug\net10.0\Student Grade Calculator.AssemblyInfoInputs.cache
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\obj\Debug\net10.0\Student Grade Calculator.AssemblyInfo.cs
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\obj\Debug\net10.0\Student Grade Calculator.csproj.CoreCompileInputs.cache
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\obj\Debug\net10.0\Student Grade Calculator.dll
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\obj\Debug\net10.0\refint\Student Grade Calculator.dll
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\obj\Debug\net10.0\Student Grade Calculator.pdb
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\obj\Debug\net10.0\Student Grade Calculator.genruntimeconfig.cache
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\obj\Debug\net10.0\ref\Student Grade Calculator.dll

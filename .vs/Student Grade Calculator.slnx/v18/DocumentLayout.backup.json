@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Development\\SDEV240 C#\\Module 2\\Student Grade Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEA8458-78C7-B2CF-BB24-BE9D6BEEA53E}|Student Grade Calculator\\Student Grade Calculator.csproj|z:\\development\\sdev240 c#\\module 2\\student grade calculator\\student grade calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEA8458-78C7-B2CF-BB24-BE9D6BEEA53E}|Student Grade Calculator\\Student Grade Calculator.csproj|solutionrelative:student grade calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Development\\SDEV240 C#\\Module 2\\Student Grade Calculator\\Student Grade Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Student Grade Calculator\\Program.cs",
+              "ToolTip": "Z:\\Development\\SDEV240 C#\\Module 2\\Student Grade Calculator\\Student Grade Calculator\\Program.cs",
+              "RelativeToolTip": "Student Grade Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T01:53:37.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
