@@ -12,3 +12,4 @@ Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calcul
 Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\obj\Debug\net10.0\Student Grade Calculator.pdb
 Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\obj\Debug\net10.0\Student Grade Calculator.genruntimeconfig.cache
 Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\obj\Debug\net10.0\ref\Student Grade Calculator.dll
+Z:\Development\SDEV240 C#\Module 2\Student Grade Calculator\Student Grade Calculator\obj\Debug\net10.0\Student Grade Calculator.sourcelink.json
